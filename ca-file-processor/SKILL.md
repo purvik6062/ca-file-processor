@@ -1,8 +1,8 @@
 ---
 name: ca-file-processor
 description: Process financial documents for Indian CA firms. Use when any PDF, Excel (.xlsx/.xls), CSV, JPG, or PNG file is received or uploaded — including GST returns, ITR PDFs, scanned invoices, trial balance sheets, bank statements, Form 16, TDS certificates, and audit reports. Automatically detects file type and extracts text, tables, and key fields (GSTIN, invoice number, totals, dates). Triggers on: file upload, attachment, "process this file", "read this PDF", "extract from this invoice", "analyse this statement", "what does this document say".
-version: 1.0.0
-homepage: https://github.com/your-org/ca-openclaw-skills
+version: 1.0.1
+homepage: https://github.com/purvik6062/ca-file-processor
 metadata:
   openclaw:
     emoji: "📂"
