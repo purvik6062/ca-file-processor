@@ -16,8 +16,6 @@ metadata:
       env: []
     files:
       - "scripts/*"
-    install:
-      - kind: uv
 ---
 
 # CA File Processor
